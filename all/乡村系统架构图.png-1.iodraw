@@ -67,8 +67,11 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-25" value="购买商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="170" y="550" width="31" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-36" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-26" target="XWzKgvlemhl4N2qcBVoL-15">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-26" value="视频点赞" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="266" y="600" width="31" height="89" as="geometry" />
+          <mxGeometry x="229" y="553" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
