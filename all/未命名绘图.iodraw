@@ -62,10 +62,10 @@
           <mxGeometry x="385" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-16" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="460" y="560" width="74" height="27.5" as="geometry" />
+          <mxGeometry x="445" y="560" width="74" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-17" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="545" y="552.5" width="90" height="35" as="geometry" />
+          <mxGeometry x="560" y="560" width="75" height="27.5" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
