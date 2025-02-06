@@ -155,6 +155,9 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-64" value="订单信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="322" y="332" width="31" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-66" value="商品管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="789" y="332" width="31" height="89" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
