@@ -155,14 +155,14 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-64" value="订单信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="322" y="332" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-66" value="商品管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-66" value="订单管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="747" y="336" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-67" value="商品管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="792" y="336" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-68" value="商品管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="802" y="346" width="31" height="89" as="geometry" />
+          <mxGeometry x="837" y="336" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
