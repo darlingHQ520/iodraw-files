@@ -50,7 +50,7 @@
           <mxGeometry x="229" y="411" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-16" value="导航" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="91" y="515" width="31" height="89" as="geometry" />
+          <mxGeometry x="166" y="585" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-23" value="乡村信息修改" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="291" y="411" width="31" height="89" as="geometry" />
@@ -59,10 +59,10 @@
           <mxGeometry x="344" y="411" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-25" value="购买商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="139" y="518" width="31" height="89" as="geometry" />
+          <mxGeometry x="214" y="588" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-26" value="视频点赞" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="187" y="528" width="31" height="89" as="geometry" />
+          <mxGeometry x="262" y="598" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
