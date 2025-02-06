@@ -158,6 +158,9 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-66" value="商品管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="747" y="336" width="31" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-67" value="商品管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="784" y="340" width="31" height="89" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
