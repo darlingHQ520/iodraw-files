@@ -135,7 +135,12 @@
           <mxGeometry x="681" y="118" width="98" height="42" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-78" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-58" target="XWzKgvlemhl4N2qcBVoL-77">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="240" y="549" />
+              <mxPoint x="246" y="549" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-58" value="发布乡村信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="224" y="459" width="31" height="89" as="geometry" />
