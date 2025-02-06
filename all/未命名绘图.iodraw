@@ -14,7 +14,7 @@
           <mxGeometry x="550" y="120" width="85" height="35" as="geometry" />
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-4" value="前端页面" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="50" width="70" height="30" as="geometry" />
+          <mxGeometry x="380" y="80" width="70" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-5" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="380" y="242" width="310" height="218" as="geometry" />
@@ -66,9 +66,6 @@
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-17" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="560" y="552.5" width="90" height="35" as="geometry" />
-        </mxCell>
-        <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-18" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="260" y="300" width="310" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
