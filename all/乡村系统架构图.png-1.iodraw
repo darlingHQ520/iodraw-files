@@ -16,11 +16,6 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-7" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-2" target="XWzKgvlemhl4N2qcBVoL-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-2">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="318" y="395.6000061035156" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-2" value="用户端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="229" y="271" width="120" height="60" as="geometry" />
         </mxCell>
@@ -28,7 +23,7 @@
           <mxGeometry x="516" y="274" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-6" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="127" y="393" width="120" height="60" as="geometry" />
+          <mxGeometry x="127" y="393" width="66" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
