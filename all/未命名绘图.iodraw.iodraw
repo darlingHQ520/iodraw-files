@@ -99,8 +99,8 @@
             <mxPoint x="623" y="180" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17VHPiQS6lvE2aAs0_3X-18" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
-          <mxGeometry x="465" y="498" width="50" height="30" as="geometry" />
+        <mxCell id="17VHPiQS6lvE2aAs0_3X-18" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+          <mxGeometry x="460" y="498" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
