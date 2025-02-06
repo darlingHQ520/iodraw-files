@@ -69,7 +69,7 @@
             <mxPoint x="580" y="170" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="17VHPiQS6lvE2aAs0_3X-10" value="controller接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="17VHPiQS6lvE2aAs0_3X-10" value="Controller接口层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="470" y="250" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="17VHPiQS6lvE2aAs0_3X-11" value="Service实现层" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
@@ -102,7 +102,7 @@
         <mxCell id="17VHPiQS6lvE2aAs0_3X-18" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="500" y="498" width="60" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="17VHPiQS6lvE2aAs0_3X-19" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
+        <mxCell id="17VHPiQS6lvE2aAs0_3X-19" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="WIyWlLk6GJQsqaUBKTNV-1">
           <mxGeometry x="400" y="552.5" width="90" height="35" as="geometry" />
         </mxCell>
       </root>
