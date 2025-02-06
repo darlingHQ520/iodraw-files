@@ -26,7 +26,10 @@
           <mxGeometry x="127" y="393" width="66" height="120" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-9" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="137" y="403" width="66" height="120" as="geometry" />
+          <mxGeometry x="203" y="393" width="66" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-10" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="279" y="393" width="66" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
