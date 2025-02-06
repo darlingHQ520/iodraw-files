@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="618" dy="312" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1400" dy="707" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -189,6 +189,9 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-67" value="商品类别管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="932" y="327" width="31" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-100" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-68" target="XWzKgvlemhl4N2qcBVoL-91">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-68" value="视频管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="983" y="327" width="31" height="89" as="geometry" />
         </mxCell>
@@ -234,10 +237,10 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-89" value="订单改删查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="883" y="459" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-90" value="商品类别管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-90" value="商品类别增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="932" y="459" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-91" value="视频管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-91" value="视频增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="983" y="459" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
