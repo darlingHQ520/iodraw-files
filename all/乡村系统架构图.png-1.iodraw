@@ -23,7 +23,7 @@
           <mxGeometry x="516" y="274" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-6" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="127" y="393" width="66" height="60" as="geometry" />
+          <mxGeometry x="127" y="393" width="66" height="120" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
