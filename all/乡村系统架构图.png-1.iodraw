@@ -25,11 +25,11 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-6" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="44" y="411" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-11" value="商品信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="236" y="411" width="66" height="120" as="geometry" />
-        </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-12" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="82" y="411" width="31" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-13" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="92" y="421" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
