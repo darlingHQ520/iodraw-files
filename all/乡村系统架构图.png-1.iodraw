@@ -35,7 +35,10 @@
           <mxGeometry x="95" y="553" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-15" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="196" y="411" width="31" height="89" as="geometry" />
+          <mxGeometry x="139" y="555" width="31" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-16" value="登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="183" y="553" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
