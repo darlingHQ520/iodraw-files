@@ -177,8 +177,14 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-77" value="新增乡村信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="230" y="580" width="31" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-80" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-79" target="XWzKgvlemhl4N2qcBVoL-59">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-79" value="支付购买商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="295.5" y="580" width="31" height="89" as="geometry" />
+        </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-81" value="支付购买商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="333" y="580" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
