@@ -60,7 +60,7 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-15" value="视频信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="409" y="323" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-16" target="XWzKgvlemhl4N2qcBVoL-75">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-76" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-16" target="XWzKgvlemhl4N2qcBVoL-75">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-16" value="导航" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
@@ -164,7 +164,7 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-72" value="验证用户登录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="146" y="459" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-75" value="导航" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-75" value="用户导航" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="190" y="580" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
