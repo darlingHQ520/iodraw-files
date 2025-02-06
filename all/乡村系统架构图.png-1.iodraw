@@ -46,7 +46,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-13" value="乡村信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="85" y="332" width="31" height="89" as="geometry" />
+          <mxGeometry x="72" y="332" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-14" value="商品信息" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="144" y="332" width="31" height="89" as="geometry" />
