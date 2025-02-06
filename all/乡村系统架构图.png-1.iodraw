@@ -201,7 +201,7 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-84" value="管理员用户增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="602" y="459" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-85" value="角色管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-85" value="角色增删改查分配角色" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="661" y="459" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-86" value="乡村管理" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
