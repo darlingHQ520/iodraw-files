@@ -59,10 +59,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-15" value="数据库" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="500" y="498" width="60" height="30" as="geometry" />
+          <mxGeometry x="385" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-16" value="Redis" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="444" y="552.5" width="90" height="35" as="geometry" />
+          <mxGeometry x="460" y="560" width="74" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="dcHJAFvoiJ0FPhX_C3Rg-17" value="Mysql" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="545" y="552.5" width="90" height="35" as="geometry" />
