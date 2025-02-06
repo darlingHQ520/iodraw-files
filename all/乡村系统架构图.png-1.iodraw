@@ -25,6 +25,12 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-2" target="XWzKgvlemhl4N2qcBVoL-15">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-32" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-2" target="XWzKgvlemhl4N2qcBVoL-23">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-2" target="XWzKgvlemhl4N2qcBVoL-24">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-2" value="用户端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="229" y="271" width="120" height="60" as="geometry" />
         </mxCell>
@@ -50,7 +56,7 @@
           <mxGeometry x="291" y="411" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-24" value="新建乡村" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="346" y="409" width="31" height="89" as="geometry" />
+          <mxGeometry x="344" y="411" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-25" value="购买商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="139" y="518" width="31" height="89" as="geometry" />
