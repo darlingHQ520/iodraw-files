@@ -7,7 +7,7 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-3" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-1" target="XWzKgvlemhl4N2qcBVoL-2">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-5" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-1" target="XWzKgvlemhl4N2qcBVoL-51">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="541.5" y="125" as="targetPoint" />
           </mxGeometry>
@@ -108,7 +108,7 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-50" value="视频点赞" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="626" y="474" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-51" value="用户端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-51" value="管理端" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="545" y="127" width="98" height="42" as="geometry" />
         </mxCell>
       </root>
