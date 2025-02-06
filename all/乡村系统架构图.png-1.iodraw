@@ -46,6 +46,9 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-25" value="购买商品" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="139" y="518" width="31" height="89" as="geometry" />
         </mxCell>
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-26" value="视频点赞" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="335" y="413" width="31" height="89" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
