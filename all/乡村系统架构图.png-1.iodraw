@@ -249,7 +249,7 @@
         <mxCell id="ow7HApTjhWKLS4maJVl2-2" value="用户登录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="321" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="ow7HApTjhWKLS4maJVl2-3" value="系统菜单增删改查" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ow7HApTjhWKLS4maJVl2-3" value="用户登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="554" y="453" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
