@@ -1,6 +1,6 @@
 <mxfile host="www.iodraw.com" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36" version="24.7.17">
   <diagram id="prtHgNgQTEPvFCAcTncT" name="Page-1">
-    <mxGraphModel dx="1235" dy="624" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="530" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -149,7 +149,7 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-71" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="XWzKgvlemhl4N2qcBVoL-51" target="XWzKgvlemhl4N2qcBVoL-68" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ow7HApTjhWKLS4maJVl2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="XWzKgvlemhl4N2qcBVoL-51" target="ow7HApTjhWKLS4maJVl2-2">
+        <mxCell id="ow7HApTjhWKLS4maJVl2-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="XWzKgvlemhl4N2qcBVoL-51" target="ow7HApTjhWKLS4maJVl2-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-51" value="管理端" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
@@ -246,13 +246,13 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-91" value="视频增删改查" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="1051" y="453" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="ow7HApTjhWKLS4maJVl2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="ow7HApTjhWKLS4maJVl2-2" target="ow7HApTjhWKLS4maJVl2-3">
+        <mxCell id="ow7HApTjhWKLS4maJVl2-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" parent="1" source="ow7HApTjhWKLS4maJVl2-2" target="ow7HApTjhWKLS4maJVl2-3" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="ow7HApTjhWKLS4maJVl2-2" value="用户登录" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ow7HApTjhWKLS4maJVl2-2" value="用户登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="554" y="321" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="ow7HApTjhWKLS4maJVl2-3" value="用户登录注册" style="whiteSpace=wrap;html=1;rounded=0;" vertex="1" parent="1">
+        <mxCell id="ow7HApTjhWKLS4maJVl2-3" value="用户登录" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="554" y="453" width="31" height="89" as="geometry" />
         </mxCell>
       </root>
