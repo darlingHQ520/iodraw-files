@@ -10,7 +10,7 @@
         <mxCell id="JJmR3wxKAdBiXaxIFgvo-2" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" source="JJmR3wxKAdBiXaxIFgvo-3" target="JJmR3wxKAdBiXaxIFgvo-4">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="JJmR3wxKAdBiXaxIFgvo-8" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JJmR3wxKAdBiXaxIFgvo-2">
+        <mxCell id="JJmR3wxKAdBiXaxIFgvo-8" value="泛化" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JJmR3wxKAdBiXaxIFgvo-2">
           <mxGeometry x="-0.1638" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -32,6 +32,11 @@
         <mxCell id="JJmR3wxKAdBiXaxIFgvo-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;endArrow=block;endFill=0;" edge="1" parent="1" target="JJmR3wxKAdBiXaxIFgvo-7" source="JJmR3wxKAdBiXaxIFgvo-3">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="562" y="447" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="JJmR3wxKAdBiXaxIFgvo-9" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="JJmR3wxKAdBiXaxIFgvo-6">
+          <mxGeometry x="-0.017" y="1" relative="1" as="geometry">
+            <mxPoint y="-1" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="JJmR3wxKAdBiXaxIFgvo-7" value="取消点赞" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
