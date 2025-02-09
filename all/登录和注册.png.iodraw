@@ -24,14 +24,29 @@
             <mxPoint x="1" y="-3" as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="5Pv3DH2ag_R7jTcOX_4y-12" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5Pv3DH2ag_R7jTcOX_4y-9">
+          <mxGeometry x="-0.2486" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Pv3DH2ag_R7jTcOX_4y-13" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5Pv3DH2ag_R7jTcOX_4y-9">
+          <mxGeometry x="-0.2486" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="5Pv3DH2ag_R7jTcOX_4y-14" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="5Pv3DH2ag_R7jTcOX_4y-9">
+          <mxGeometry x="-0.2486" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="5Pv3DH2ag_R7jTcOX_4y-3" value="新建乡村" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="498" y="222" width="98" height="68" as="geometry" />
         </mxCell>
         <mxCell id="5Pv3DH2ag_R7jTcOX_4y-4" value="注册" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="670" y="222" width="98" height="68" as="geometry" />
         </mxCell>
-        <mxCell id="5Pv3DH2ag_R7jTcOX_4y-11" value="&amp;laquo;interface&amp;raquo;&lt;br&gt;&lt;b&gt;Name&lt;/b&gt;" style="html=1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="481" y="251" width="110" height="50" as="geometry" />
+        <mxCell id="5Pv3DH2ag_R7jTcOX_4y-15" value="&lt;span style=&quot;color: rgb(0, 0, 0); font-family: Helvetica; font-size: 12px; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: center; text-indent: 0px; text-transform: none; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; white-space: normal; background-color: rgb(251, 251, 251); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; display: inline !important; float: none;&quot;&gt;«interface»&lt;/span&gt;" style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="618.800048828125" y="249.79998779296875" width="87" height="36" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
