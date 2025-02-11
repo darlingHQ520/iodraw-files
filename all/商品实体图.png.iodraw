@@ -47,10 +47,10 @@
           <mxGeometry x="307" y="593" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-15" value="乡村名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="439" y="590" width="120" height="80" as="geometry" />
+          <mxGeometry x="429" y="607" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-16" value="商品简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="563" y="587" width="120" height="80" as="geometry" />
+          <mxGeometry x="554" y="613" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-17" value="商品数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="699" y="576" width="120" height="80" as="geometry" />
