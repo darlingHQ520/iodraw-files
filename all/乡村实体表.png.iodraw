@@ -85,10 +85,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-27" value="市级区域名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="973" y="263" width="120" height="80" as="geometry" />
+          <mxGeometry x="977" y="346" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-28" value="区县区域名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="989" y="112" width="120" height="80" as="geometry" />
+          <mxGeometry x="999" y="153" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="d1sMdobJm78o1K0qv9ka-12" target="d1sMdobJm78o1K0qv9ka-28">
           <mxGeometry relative="1" as="geometry">
@@ -101,7 +101,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-33" value="区县区域代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="995" y="180" width="120" height="80" as="geometry" />
+          <mxGeometry x="986" y="256" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
