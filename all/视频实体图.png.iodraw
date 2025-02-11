@@ -22,8 +22,10 @@
         <mxCell id="fu8knM_zGu6XzpSbCQHf-6" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fu8knM_zGu6XzpSbCQHf-12" target="fu8knM_zGu6XzpSbCQHf-16">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="fu8knM_zGu6XzpSbCQHf-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fu8knM_zGu6XzpSbCQHf-12" target="fu8knM_zGu6XzpSbCQHf-17">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="fu8knM_zGu6XzpSbCQHf-7" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="fu8knM_zGu6XzpSbCQHf-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="722.592057219897" y="501.9290274320597" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="fu8knM_zGu6XzpSbCQHf-12" target="fu8knM_zGu6XzpSbCQHf-18">
           <mxGeometry relative="1" as="geometry" />
@@ -49,11 +51,8 @@
         <mxCell id="fu8knM_zGu6XzpSbCQHf-15" value="经纬度地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="511" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="fu8knM_zGu6XzpSbCQHf-16" value="登录时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="fu8knM_zGu6XzpSbCQHf-16" value="文案" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="513" width="120" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="fu8knM_zGu6XzpSbCQHf-17" value="账号状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="681" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-18" value="发布人openId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="794" y="457" width="120" height="80" as="geometry" />
