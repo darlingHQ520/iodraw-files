@@ -70,7 +70,7 @@
         <mxCell id="sDlgQL9oCyGEJaVqiMid-22" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="96" y="278" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sDlgQL9oCyGEJaVqiMid-23" value="更新时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDlgQL9oCyGEJaVqiMid-23" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="912" y="211" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-24" value="ID" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
