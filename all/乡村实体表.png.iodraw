@@ -87,7 +87,7 @@
         <mxCell id="d1sMdobJm78o1K0qv9ka-27" value="市级区域名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="973" y="263" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d1sMdobJm78o1K0qv9ka-28" value="是否热门商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d1sMdobJm78o1K0qv9ka-28" value="区县区域名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="12" y="230" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-29" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.99;entryY=0.588;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="d1sMdobJm78o1K0qv9ka-12" target="d1sMdobJm78o1K0qv9ka-28">
