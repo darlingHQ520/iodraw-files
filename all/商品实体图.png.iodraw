@@ -49,10 +49,10 @@
         <mxCell id="sDlgQL9oCyGEJaVqiMid-15" value="乡村名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="511" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sDlgQL9oCyGEJaVqiMid-16" value="登录时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDlgQL9oCyGEJaVqiMid-16" value="商品简介" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="557" y="513" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sDlgQL9oCyGEJaVqiMid-17" value="账号状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDlgQL9oCyGEJaVqiMid-17" value="商品数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="681" y="500" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-18" value="openId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
