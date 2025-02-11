@@ -84,7 +84,7 @@
             <mxPoint x="565" y="82.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d1sMdobJm78o1K0qv9ka-27" value="商品详细介绍" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d1sMdobJm78o1K0qv9ka-27" value="市级区域名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="973" y="263" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-28" value="是否热门商品" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
