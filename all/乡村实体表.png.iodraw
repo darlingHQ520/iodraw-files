@@ -47,19 +47,19 @@
           <mxGeometry x="196" y="533" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-15" value="建村人openId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="429" y="607" width="120" height="80" as="geometry" />
+          <mxGeometry x="333" y="544" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-16" value="乡村封面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="554" y="613" width="120" height="80" as="geometry" />
+          <mxGeometry x="465" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-17" value="省级区域代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="677" y="616" width="120" height="80" as="geometry" />
+          <mxGeometry x="606" y="550" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-18" value="省级区域名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="802" y="580" width="120" height="80" as="geometry" />
+          <mxGeometry x="737" y="528" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-19" value="市级区域代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="869" y="507" width="120" height="80" as="geometry" />
+          <mxGeometry x="848" y="490" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-20" value="市级区域代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="928" y="430" width="120" height="80" as="geometry" />
