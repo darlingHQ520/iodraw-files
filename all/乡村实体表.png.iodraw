@@ -52,7 +52,7 @@
         <mxCell id="d1sMdobJm78o1K0qv9ka-16" value="乡村封面" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="554" y="613" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="d1sMdobJm78o1K0qv9ka-17" value="商品数量" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d1sMdobJm78o1K0qv9ka-17" value="省级区域代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="677" y="616" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-18" value="商品价格" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
