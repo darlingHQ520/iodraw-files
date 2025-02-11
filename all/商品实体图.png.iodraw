@@ -43,10 +43,10 @@
         <mxCell id="sDlgQL9oCyGEJaVqiMid-13" value="售卖人手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="447" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sDlgQL9oCyGEJaVqiMid-14" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDlgQL9oCyGEJaVqiMid-14" value="乡村id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="281" y="498" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sDlgQL9oCyGEJaVqiMid-15" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDlgQL9oCyGEJaVqiMid-15" value="乡村名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="511" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-16" value="登录时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
