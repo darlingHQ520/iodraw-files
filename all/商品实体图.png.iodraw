@@ -41,10 +41,10 @@
           <mxGeometry x="509" y="112" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-13" value="售卖人手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="164" y="447" width="120" height="80" as="geometry" />
+          <mxGeometry x="185" y="566" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-14" value="乡村id" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="281" y="498" width="120" height="80" as="geometry" />
+          <mxGeometry x="307" y="593" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-15" value="乡村名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="439" y="590" width="120" height="80" as="geometry" />
