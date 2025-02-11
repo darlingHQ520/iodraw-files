@@ -41,22 +41,22 @@
           <mxGeometry x="509" y="112" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="9QmRd04SK19T09RQkJIY-2" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="163" y="469" width="120" height="80" as="geometry" />
+          <mxGeometry x="164" y="447" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9QmRd04SK19T09RQkJIY-3" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="265" y="549" width="120" height="80" as="geometry" />
+          <mxGeometry x="266" y="527" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9QmRd04SK19T09RQkJIY-4" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="417" y="583" width="120" height="80" as="geometry" />
+          <mxGeometry x="418" y="561" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9QmRd04SK19T09RQkJIY-5" value="登录时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="567" y="587" width="120" height="80" as="geometry" />
+          <mxGeometry x="568" y="565" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9QmRd04SK19T09RQkJIY-6" value="账号状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="701" y="562" width="120" height="80" as="geometry" />
+          <mxGeometry x="702" y="540" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9QmRd04SK19T09RQkJIY-7" value="openId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="814" y="496" width="120" height="80" as="geometry" />
+          <mxGeometry x="815" y="474" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="9QmRd04SK19T09RQkJIY-8" value="备注" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="872" y="402" width="120" height="80" as="geometry" />
