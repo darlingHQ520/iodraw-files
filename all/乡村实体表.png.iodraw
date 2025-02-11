@@ -108,7 +108,7 @@
             <mxPoint x="557" y="88.5" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="d1sMdobJm78o1K0qv9ka-33" value="发布商品openid" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="d1sMdobJm78o1K0qv9ka-33" value="区县区域代码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="995" y="180" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
