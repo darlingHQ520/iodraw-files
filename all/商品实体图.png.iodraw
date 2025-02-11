@@ -40,7 +40,7 @@
         <mxCell id="sDlgQL9oCyGEJaVqiMid-12" value="商品" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="509" y="112" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="sDlgQL9oCyGEJaVqiMid-13" value="头像" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDlgQL9oCyGEJaVqiMid-13" value="手机号" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="164" y="447" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-14" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -64,7 +64,7 @@
         <mxCell id="sDlgQL9oCyGEJaVqiMid-20" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="902" y="297" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="sDlgQL9oCyGEJaVqiMid-21" value="密码" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="sDlgQL9oCyGEJaVqiMid-21" value="商品分类" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="118" y="362" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="sDlgQL9oCyGEJaVqiMid-22" value="商品名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
