@@ -41,10 +41,10 @@
           <mxGeometry x="509" y="112" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-13" value="乡村经纬度地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="185" y="566" width="120" height="80" as="geometry" />
+          <mxGeometry x="60" y="494" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-14" value="状态" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="307" y="593" width="120" height="80" as="geometry" />
+          <mxGeometry x="196" y="533" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-15" value="建村人openId" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="429" y="607" width="120" height="80" as="geometry" />
@@ -65,10 +65,10 @@
           <mxGeometry x="928" y="430" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-21" value="乡村地址" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="76" y="500" width="120" height="80" as="geometry" />
+          <mxGeometry y="407" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-22" value="乡村名称" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-6" y="334" width="120" height="80" as="geometry" />
+          <mxGeometry x="-11" y="320" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="d1sMdobJm78o1K0qv9ka-23" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="955" y="347" width="120" height="80" as="geometry" />
