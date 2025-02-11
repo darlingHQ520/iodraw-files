@@ -228,7 +228,7 @@
         <mxCell id="XWzKgvlemhl4N2qcBVoL-85" value="角色增删改查分配角色" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="729" y="453" width="31" height="89" as="geometry" />
         </mxCell>
-        <mxCell id="XWzKgvlemhl4N2qcBVoL-86" value="乡村信息增删改查&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
+        <mxCell id="XWzKgvlemhl4N2qcBVoL-86" value="乡村信息删改查&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="788" y="453" width="31" height="89" as="geometry" />
         </mxCell>
         <mxCell id="XWzKgvlemhl4N2qcBVoL-87" value="标签增删改查分配" style="whiteSpace=wrap;html=1;rounded=0;" parent="1" vertex="1">
