@@ -36,7 +36,7 @@
             <mxPoint x="679" y="524" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1jUxeQ6hfSaYu-JjDZyu-8" value="乡村删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1jUxeQ6hfSaYu-JjDZyu-8" value="查询乡村" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="784" y="583" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1jUxeQ6hfSaYu-JjDZyu-9" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="1jUxeQ6hfSaYu-JjDZyu-5" target="1jUxeQ6hfSaYu-JjDZyu-8">
@@ -54,7 +54,7 @@
             <mxPoint x="679" y="445" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="1jUxeQ6hfSaYu-JjDZyu-12" value="乡村删除" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="1jUxeQ6hfSaYu-JjDZyu-12" value="乡村增加" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="786" y="355" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="1jUxeQ6hfSaYu-JjDZyu-13" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" target="1jUxeQ6hfSaYu-JjDZyu-12" source="1jUxeQ6hfSaYu-JjDZyu-5">
