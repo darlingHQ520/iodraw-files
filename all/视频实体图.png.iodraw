@@ -32,16 +32,16 @@
           <mxGeometry x="505" y="116" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-13" value="封面图片" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="315" y="370" width="120" height="80" as="geometry" />
+          <mxGeometry x="302" y="353" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-14" value="地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="426" y="414" width="120" height="80" as="geometry" />
+          <mxGeometry x="400" y="402" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-15" value="经纬度地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="558" y="421" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-16" value="文案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="681" y="397" width="120" height="80" as="geometry" />
+          <mxGeometry x="668" y="404" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-18" value="发布人openId" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="753" y="346" width="120" height="80" as="geometry" />
@@ -50,10 +50,10 @@
           <mxGeometry x="786" y="286" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-21" value="点赞数量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="267" y="294" width="120" height="80" as="geometry" />
+          <mxGeometry x="267" y="273" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-22" value="视频链接" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="267" y="214" width="120" height="80" as="geometry" />
+          <mxGeometry x="267" y="191" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-24" value="ID" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="788" y="191" width="120" height="80" as="geometry" />
