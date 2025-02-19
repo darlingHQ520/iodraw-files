@@ -38,16 +38,16 @@
           <mxGeometry x="415" y="466" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-15" value="经纬度地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="482" y="525" width="120" height="80" as="geometry" />
+          <mxGeometry x="567" y="443" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-16" value="文案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="618" y="517" width="120" height="80" as="geometry" />
+          <mxGeometry x="695" y="425" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-18" value="发布人openId" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="743" y="494" width="120" height="80" as="geometry" />
+          <mxGeometry x="805" y="380" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-20" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="863" y="454" width="120" height="80" as="geometry" />
+          <mxGeometry x="828" y="300" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-21" value="点赞数量" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="274" y="328" width="120" height="80" as="geometry" />
