@@ -38,13 +38,13 @@
           <mxGeometry x="400" y="402" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-15" value="经纬度地址" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="558" y="421" width="120" height="80" as="geometry" />
+          <mxGeometry x="520" y="416" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-16" value="文案" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="668" y="404" width="120" height="80" as="geometry" />
+          <mxGeometry x="642" y="394" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-18" value="发布人openId" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="753" y="346" width="120" height="80" as="geometry" />
+          <mxGeometry x="747" y="351" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="fu8knM_zGu6XzpSbCQHf-20" value="创建时间" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="786" y="286" width="120" height="80" as="geometry" />
