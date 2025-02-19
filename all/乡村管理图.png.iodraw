@@ -37,7 +37,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-9" value="查询乡村" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="784" y="583" width="100" height="65" as="geometry" />
+          <mxGeometry x="769" y="579" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VS9rKLOtVbTX87tEogOC-6" target="VS9rKLOtVbTX87tEogOC-9" edge="1">
           <mxGeometry relative="1" as="geometry">
@@ -48,7 +48,7 @@
         <mxCell id="VS9rKLOtVbTX87tEogOC-11" value="乡村删除" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="784" y="504" width="100" height="65" as="geometry" />
         </mxCell>
-        <mxCell id="VS9rKLOtVbTX87tEogOC-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" target="VS9rKLOtVbTX87tEogOC-11" edge="1">
+        <mxCell id="VS9rKLOtVbTX87tEogOC-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VS9rKLOtVbTX87tEogOC-6" target="VS9rKLOtVbTX87tEogOC-11" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="727" y="602" as="targetPoint" />
             <mxPoint x="693" y="516" as="sourcePoint" />
