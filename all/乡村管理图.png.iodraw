@@ -25,42 +25,42 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-6" value="超级管理员" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" parent="1" vertex="1">
-          <mxGeometry x="664" y="494" width="30" height="60" as="geometry" />
+          <mxGeometry x="636" y="504" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-7" value="乡村修改" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="789" y="426" width="100" height="65" as="geometry" />
+          <mxGeometry x="741" y="441" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-8" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="VS9rKLOtVbTX87tEogOC-7" edge="1" source="VS9rKLOtVbTX87tEogOC-6">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="732" y="524" as="targetPoint" />
-            <mxPoint x="694" y="513" as="sourcePoint" />
+            <mxPoint x="704" y="534" as="targetPoint" />
+            <mxPoint x="666" y="523" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-9" value="查询乡村" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="769" y="579" width="100" height="65" as="geometry" />
+          <mxGeometry x="741" y="589" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-10" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VS9rKLOtVbTX87tEogOC-6" target="VS9rKLOtVbTX87tEogOC-9" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="727" y="681" as="targetPoint" />
-            <mxPoint x="674" y="681" as="sourcePoint" />
+            <mxPoint x="699" y="691" as="targetPoint" />
+            <mxPoint x="646" y="691" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-11" value="乡村删除" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="784" y="504" width="100" height="65" as="geometry" />
+          <mxGeometry x="741" y="517" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-12" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="VS9rKLOtVbTX87tEogOC-6" target="VS9rKLOtVbTX87tEogOC-11" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="727" y="602" as="targetPoint" />
-            <mxPoint x="693" y="516" as="sourcePoint" />
+            <mxPoint x="699" y="612" as="targetPoint" />
+            <mxPoint x="665" y="526" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-13" value="乡村增加" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="786" y="355" width="100" height="65" as="geometry" />
+          <mxGeometry x="758" y="365" width="100" height="65" as="geometry" />
         </mxCell>
         <mxCell id="VS9rKLOtVbTX87tEogOC-14" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.3333333333333333;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="VS9rKLOtVbTX87tEogOC-6" target="VS9rKLOtVbTX87tEogOC-13" edge="1">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="729" y="453" as="targetPoint" />
-            <mxPoint x="681" y="296" as="sourcePoint" />
+            <mxPoint x="701" y="463" as="targetPoint" />
+            <mxPoint x="653" y="306" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
       </root>
